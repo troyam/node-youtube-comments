@@ -1,0 +1,21 @@
+{
+  "name": "node-youtube-comments",
+  "version": "4.5.3",
+  "description": "Youtube comments downloader written in Node.js",
+  "main": "magic.js",
+  "scripts": {
+  },
+  "author": "Marcos Porto <marcosporto99@gmail.com>",
+  "repository": "troyam/node-youtube-comments",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "magic.js"
+  ],
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "python-shell": "^1.0.8"
+  }
+}
