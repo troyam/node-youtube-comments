@@ -1,8 +1,6 @@
 # node-youtube-comments
 Youtube comments automation library written in Node.js
 
-node-youtube-comments
-
 node-youtube-comments is an Youtube automation/bot library written in modern, clean javascript node.js using python to download all comments from any video. 
 Goal is to be very easy to set up, use, and extend, and download all youtube comments.
 
