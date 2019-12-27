@@ -29,4 +29,8 @@ Save the file
 
 Run node magic and wait.
 
+The comments.json will appears, just open it.
+
+NOTE: SOME VIDEOS HAS MORE THAN 1.000 COMMENTS AND THAT CAN BE SLOWLY.
+
 You can run this code for example every day using cron or pm2 or similar to get analisys from your Channel or something else.
